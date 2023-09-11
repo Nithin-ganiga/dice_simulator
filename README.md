@@ -1,0 +1,2 @@
+# dice_simulator
+RANDOM DICE ROLLING SIMULATION GAME
